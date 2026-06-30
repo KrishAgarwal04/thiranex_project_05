@@ -1,0 +1,6 @@
+{
+  "name": "ShopWave E-Commerce Catalog",
+  "description": "A high-performance premium e-commerce product catalog showcasing 50+ items across categories with client-side routing, custom dual-range filters, immersive product zoom, real-time comparisons, multi-step checkout, and canvas confetti success states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
